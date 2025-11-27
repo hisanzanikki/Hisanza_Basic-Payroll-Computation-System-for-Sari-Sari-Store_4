@@ -1,7 +1,7 @@
 git clone https://github.com/hisanzanikki/Hisanza_Basic-Payroll-Computation-System-for-Sari-Sari-Store_4.git
 Hisanza_Basic-Payroll-Computation-System-for-Sari-Sari_4
 >git config --global user.name "hisanzanikki"
->git config --global user.name "hisanzannikki
+>git config --global user.name "hisanzanikki
 Hisanza_Basic-Payroll-Computation-System-for-Sari-Sari_4>git add .
 Hisanza_Basic-Payroll-Computation-System-for-Sari-Sari_4>git commit --"initial commit example"
 Hisanza_Basic-Payroll-Computation-System-for-Sari-Sari_4
